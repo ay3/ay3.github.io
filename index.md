@@ -18,6 +18,7 @@
 - Tool : Git,  Eclipse, Redmine, Zabbix
 
 ## Qualification
+- Master of Computer Science
 - AWS - Solutions Architect - associate
 - Google Cloud Certified - Professional Cloud Architect
 

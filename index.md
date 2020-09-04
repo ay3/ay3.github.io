@@ -5,7 +5,7 @@
 - What I want to learn : AWS, GCP, Data analysis, ML, 3DCG, Iot, Python etc.
 
 ## Profile
-- ay3
+- Name : ay
 - Where to live : In Cloud
 
 ## Skills

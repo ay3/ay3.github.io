@@ -1,5 +1,5 @@
 # About me
-- I want to live and work at my own pace. I am capricious. I sleep for 8 hours every day.
+- I want to live and work at my own pace. I am happy. I sleep for 8 hours every day.
 - My favorite foods are rice, bread, mochi, seaweed, cheese, strawberries, oranges, and chocolate.
 - I like IT. I like bath time.
 - What I want to learn : AWS, GCP, Data analysis, ML, 3DCG, Iot, Python etc.

@@ -28,3 +28,5 @@
 ## Works
 - [診断メーカー『今日のテーマ』](https://ay3.github.io/my-theme/my-theme.html)
 - [Photo web site](http://me.perl.pink/)
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="aya1" data-color="#79D6B5" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000" data-font-color="#fff" data-coffee-color="#fd0" data-font-color="#fff"></script>

@@ -23,7 +23,7 @@
 - Google Cloud Certified - Professional Cloud Architect
 
 ## Link
-- [Google Cloud Training](https://google.qwiklabs.com/public_profiles/d3379a3f-317f-4555-b194-568ac249226a)
+- [Google Cloud Training](https://google.qwiklabs.com/public_profiles/a405d2cf-7503-4119-8f58-8ea39929b2c5)
 
 ## Works
 - [診断メーカー『今日のテーマ』](https://ay3.github.io/my-theme/my-theme.html)
